@@ -111,6 +111,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>spring-cache-image-actions-cicd</finalName>
     </build>
 
 </project>
